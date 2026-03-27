@@ -1,0 +1,36 @@
+aid: intello
+name: Intello
+description: >-
+  Intello (acquired by Productiv) was a SaaS management platform providing
+  SaaS discovery, usage analytics, and spend optimization for IT teams
+  seeking visibility and control over their software portfolio.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - SaaS Management
+  - SaaS Discovery
+  - Usage Analytics
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/intello/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: intello:intello
+    name: Intello
+    description: >-
+      Intello (acquired by Productiv) was a SaaS management platform providing
+      SaaS discovery, usage analytics, and spend optimization for IT teams.
+    humanURL: https://productiv.com
+    tags:
+      - SaaS Management
+      - Usage Analytics
+    properties:
+      - type: Documentation
+        url: https://productiv.com
+common:
+  - type: Website
+    url: https://productiv.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
