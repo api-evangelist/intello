@@ -7,8 +7,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - SaaS Management
   - SaaS Discovery
+  - SaaS Management
   - Usage Analytics
 url: >-
   https://raw.githubusercontent.com/api-evangelist/intello/refs/heads/main/apis.yml
