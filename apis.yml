@@ -20,10 +20,16 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/intello-trust-center.yml
+  - type: DomainSecurity
+    url: security/intello-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/intello-io
   - type: Website
     url: https://www.zylo.com
+  - type: Blog
+    url: https://zylo.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
