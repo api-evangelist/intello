@@ -7,7 +7,18 @@ description: >-
   Zylo, an enterprise SaaS spend optimization and AI consumption cost
   management platform. There is no separate public developer API.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/intello.png
 tags:
   - SaaS Discovery
   - SaaS Management
